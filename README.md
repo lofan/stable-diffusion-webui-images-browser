@@ -7,7 +7,7 @@ This an images browser for browsing past generated pictures， view their genera
 
 go to the directory \<stable-diffusion-webui project path\>/extensions and run command to install:
 
-`git clone https://github.com/yfszzx/stable-diffusion-webui-images-browser `
+`git clone https://github.com/lofan/stable-diffusion-webui-images-browser `
 
 and restart your stable-diffusion-webui, then you can see the new tab "Images Browser"
 
